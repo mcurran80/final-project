@@ -1,0 +1,158 @@
+﻿14,4,106,Advanced Arabic II,5,50,1
+13,4,105,Advanced Arabic I,9,50,1
+49,13,108,Introduction to Databases with SQL,2,50,2
+48,13,107,Introduction to Website Development,13,50,2
+127,36,101,Foundations of Political Theory,5,50,3
+128,36,102,Foundations of Comparative Politics,11,50,3
+76,21,101,Elementary Modern Hebrew I,8,50,4
+77,21,102,Elementary Modern Hebrew II,11,50,4
+4,2,102,Social Anthropology,3,50,5
+3,2,101,Introduction to Anthropology,7,50,5
+125,35,103,Introduction to Theoretical Physics,3,50,6
+126,35,104,Introduction to Computational Physics,13,50,6
+158,45,102,Psychology of the Gendered Body,10,50,7
+157,45,101,"Power to the People: Black Power, Radical Feminism, and Gay Liberation, 1955-1975",14,50,7
+46,13,105,Data Science II,5,50,8
+47,13,106,Data Structures and Algorithms,12,50,8
+45,13,104,Data Science I,9,50,9
+44,13,103,Abstraction and Design in Computation,14,50,9
+124,35,102,Introductory Electromagnetism,1,50,10
+123,35,101,Introductory Mechanics and Relativity,5,50,10
+5,3,101,Introduction to Applied Mathematics,4,50,11
+6,3,102,Computing with Python for Scientists and Engineers,7,50,11
+43,13,102,Introduction to Computer Science,10,50,12
+42,13,101,Discrete Mathematics for Computer Science,11,50,12
+154,43,102,Elementary Swahili II,3,50,13
+153,43,101,Elementary Swahili I,6,50,13
+1,1,101,Introduction to African Studies,5,50,14
+2,1,102,Introduction to African Languages and Cultures,9,50,14
+41,12,101,Introduction to Communications,9,50,15
+39,11,103,Intermediate Modern Chinese I,5,50,16
+40,11,104,Intermediate Modern Chinese II,9,50,16
+121,34,101,Introduction to Ancient Greek and Roman Philosophy,6,50,17
+122,34,102,Logic,11,50,17
+74,20,102,Introductory Ancient Greek II,2,50,18
+75,20,103,Introductory Ancient Greek III,3,50,18
+73,20,101,Introductory Ancient Greek I,7,50,18
+131,36,105,Political Parties and Elections,9,50,19
+130,36,104,Data Analysis and Politics,10,50,19
+129,36,103,International Conflict and Cooperation,12,50,19
+51,14,102,Microeconomics,7,50,20
+52,14,103,Game Theory,8,50,20
+50,14,101,Macroeconomics,12,50,20
+35,10,105,Physical Chemistry,1,50,21
+36,10,106,"Theoretical Atomic, Molecular, and Chemical Physics",8,50,21
+156,44,102,Elementary Ukrainian II,10,50,22
+155,44,101,Elementary Ukrainian I,11,50,22
+119,33,102,Introduction to Composition,6,50,23
+120,33,103,Black Protest Music,12,50,23
+118,33,101,Introductory to Music Theory,14,50,23
+12,4,104,Intermediate Arabic II,8,50,24
+11,4,103,Intermediate Arabic I,10,50,24
+54,15,102,Children with Learning and Developmental Differences,3,50,25
+53,15,101,Foundations of Schooling and Teaching,11,50,25
+78,21,103,Intermediate Modern Hebrew I,5,50,26
+79,21,104,Intermediate Modern Hebrew II,10,50,26
+33,10,103,Organic Chemistry I,5,50,27
+34,10,104,Organic Chemistry II,9,50,27
+135,38,101,World Religions,9,50,28
+136,38,102,The Bible as History,14,50,28
+56,16,102,Introduction to Mechanical Engineering,2,50,29
+55,16,101,Introduction to Electrical Engineering,8,50,29
+115,32,101,Microbiology,2,50,30
+117,32,103,Immunology,10,50,30
+116,32,102,Virology,12,50,30
+82,22,101,Protest and the Press in the Postwar U.S.,7,50,31
+83,22,102,The Origins of the Cold War,11,50,31
+37,11,101,Elementary Modern Chinese I,2,50,32
+38,11,102,Elementary Modern Chinese II,11,50,32
+138,39,102,Elementary Russian II,12,50,33
+137,39,101,Elementary Russian I,14,50,33
+57,16,103,Computer-Aided Machine Design,4,50,34
+58,16,104,Introduction to Robotics,6,50,34
+133,37,102,Abnormal Psychology,2,50,35
+134,37,103,Developmental Psychology,3,50,35
+132,37,101,Introduction to Psychology,9,50,35
+8,3,104,Introduction to Scientific Computing,6,50,36
+7,3,103,Statistical Inference for Scientists and Engineers,13,50,36
+32,10,102,General Chemistry II,4,50,37
+31,10,101,General Chemistry I,14,50,37
+113,31,105,Introductory Real Analysis,5,50,38
+114,31,106,Number Theory,8,50,38
+72,19,104,Intermediate German II,2,50,39
+71,19,103,Intermediate German I,14,50,39
+64,18,102,Beginning French II,4,50,40
+63,18,101,Beginning French I,6,50,40
+85,23,102,Beginning Italian II,3,50,41
+84,23,101,Beginning Italian I,6,50,41
+10,4,102,Elementary Arabic II,7,50,42
+9,4,101,Elementary Arabic I,11,50,42
+104,29,102,"Language, Structure, and Cognition",1,50,43
+103,29,101,Introduction to Linguistics,14,50,43
+141,41,101,Beginning Spanish I,3,50,44
+142,41,102,Beginning Spanish II,4,50,44
+15,5,101,Introduction to Archeology,5,50,45
+16,5,102,Experimental Archeology,10,50,45
+30,9,102,Introduction to Accounting,4,50,46
+29,9,101,Introduction to Business,14,50,46
+112,31,104,Linear Algebra and Differential Equations,7,50,47
+111,31,103,Multivariable Calculus,13,50,47
+140,40,102,Social Inequality,9,50,48
+139,40,101,Introduction to Sociology,10,50,48
+148,42,102,Introduction to Probability,2,50,49
+147,42,101,Introduction to Statistics and Data Science,14,50,49
+81,21,106,Advanced Modern Hebrew II,2,50,50
+80,21,105,Advanced Modern Hebrew I,12,50,50
+149,42,103,Introduction to Statistical Inference,3,50,51
+150,42,104,Introduction to Time Series & Prediction,4,50,51
+66,18,104,Intermediate French II,3,50,52
+65,18,103,Intermediate French I,8,50,52
+69,19,101,Beginning German I,11,50,53
+70,19,102,Beginning German II,12,50,53
+27,8,105,Biochemistry,6,50,54
+28,8,106,Genetics and Genomics,14,50,54
+109,31,101,Calculus I,2,50,55
+110,31,102,Calculus II,4,50,55
+102,28,103,Introductory Latin III,1,50,56
+101,28,102,Introductory Latin II,4,50,56
+100,28,101,Introductory Latin I,8,50,56
+107,30,103,Homer and Other Ancient Greek Literature,9,50,57
+108,30,104,What Is a Novel?,12,50,57
+60,16,102,Thermodynamics,1,50,58
+59,16,101,Biomechanics of Movement and Assistive Robotics,13,50,58
+87,23,104,Upper-Level Italian,8,50,59
+86,23,103,Intermediate Italian,12,50,59
+145,41,105,Upper-Level Spanish I,5,50,60
+146,41,106,Upper-Level Spanish II,10,50,60
+18,6,102,Introduction to Painting,6,50,61
+17,6,101,Introduction to Figure Drawing,9,50,61
+151,42,105,Introduction to Linear Models,7,50,62
+152,42,106,Introduction to Stochastic Processes,8,50,62
+88,24,101,Elementary Japanese I,8,50,63
+89,24,102,Elementary Japanese II,10,50,63
+25,8,103,Molecular and Cellular Biology,4,50,64
+26,8,104,Neurobiology,10,50,64
+95,26,102,Digital Journalism,7,50,65
+94,26,101,Print Journalism,9,50,65
+96,27,101,Elementary Korean I,4,50,66
+97,27,102,Elementary Korean II,7,50,66
+62,17,102,English 2,10,50,67
+61,17,101,English 1,14,50,67
+67,18,105,Advanced French I,11,50,68
+68,18,106,Advanced French II,13,50,68
+19,7,101,Stellar and Planetary Astronomy,3,50,69
+20,7,102,Galactic and Extragalactic Astronomy,6,50,69
+143,41,103,Intermediate Spanish I,1,50,70
+144,41,104,Intermediate Spanish II,11,50,70
+22,7,104,Introduction to General Relativity,9,50,71
+21,7,103,Stellar Physics,11,50,71
+106,30,102,Shakespearian Tragedies,4,50,72
+105,30,101,Shakespearian Comedies,6,50,72
+98,27,103,Intermediate Korean I,1,50,73
+99,27,104,Intermediate Korean II,5,50,73
+91,24,104,Intermediate Japanese II,1,50,74
+90,24,103,Intermediate Japanese I,2,50,74
+24,8,102,Introduction to Biology II,9,50,75
+23,8,101,Introduction to Biology I,11,50,75
+92,25,101,Introduction to Jewish Studies,12,50,76
+93,25,102,Topics in the Dead Sea Scrolls,13,50,76
