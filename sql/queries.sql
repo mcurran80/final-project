@@ -82,3 +82,7 @@ JOIN "times"
     ON "courses"."time" = "times"."id"
 JOIN "instructors"
     ON "courses"."instructor" = "instructors"."id";
+
+-- Enrolls a student in the university
+INSERT INTO "students" ("first_name", "last_name", "email_address")
+    VALUES ("Melissa", "Curran", "melissacurran530@gmail.com");
